@@ -14,9 +14,9 @@ str(10)+str(10)=1010 but int(10)+int(10)=20 in my opinion this is an important e
 
 
 
-![image](https://github.com/user-attachments/assets/f25ea5dc-84a9-42ca-bbc8-7c306305ba22)
-
 I used  ![image](https://github.com/user-attachments/assets/53980658-a59c-4d70-8d93-fb845f7345cb) this web page to create this type.
+
+I used  https://patorjk.com/software/taag/#p=display&f=Ogre&t=Guess%20%20%20%20the%20%20%20%20%20number  this web page to create this type.
 
 
 
